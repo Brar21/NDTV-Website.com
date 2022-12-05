@@ -18,6 +18,13 @@ To deploy this project run
 - HTML 5
 - CSS 3
 - JavaScript
+- Import or Export
+- API Integration 
+
+## Pages
+
+- Home Page
+- Search Page
 
 
 
