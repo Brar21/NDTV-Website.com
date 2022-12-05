@@ -25,9 +25,15 @@ To deploy this project run
 
 - Home Page
 - Search Page
+- India Page
+- Latest Page
+- World Page
+- Business Page
+
+
+## Home Page Snapshot
 
 
 
-
-
+<img src="https://github.com/Brar21/NDTV-Website.com/blob/master/imges/Homepage.jpg?raw=true" alt="hompage"/>
 
