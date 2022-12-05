@@ -9,7 +9,7 @@ The company specializes in News Telecast, and They are take care advertisements.
 To deploy this project run
 
 ```bash
- github- Deployment - https://github.com/Brar21/level-driving-6493
+ github- Deployment - https://brar21.github.io/NDTV-Website.com/
 ```
 
 
