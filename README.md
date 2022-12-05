@@ -18,7 +18,8 @@ To deploy this project run
 ```bash
 - Team-Leader- - Mohit Bansal 
 ```
-
+- Varinder Brar
+- Satayam Kumar
 
 ## Tech Stack
 
